@@ -41,7 +41,7 @@ My goal is to bring my analytical mindset and attention to detail to a cybersecu
 ### 3. Simulated Security Audit
 - **Description**: Conducted a Security Audit over a fictional company for Google's Cybersecurity Certificate.
 - **Key Features**: Filled out a Controls and Compliance Checklist which required me to review the company's security controls such as password policies, firewall, IDS, antivirus software, encryption, and physical security.
-- **Technologies/Methodologies Used**: Critial-Thinking
+- **Technologies/Methodologies Used**: Critical-Thinking
 - **Link**: [Controls and Compliance Checklist](Controls%20and%20compliance%20checklist.pdf)
 
 ## Certifications
