@@ -9,6 +9,7 @@ Welcome to my cybersecurity portfolio! This repository showcases my work, projec
   - [1. Programming with Python](#1-programming-with-python)
   - [2. Intro to Web Development](#2-intro-to-web-development)
   - [3. Simulated Security Audit](#3-simulated-security-audit)
+  - [4. Simulated Incident Report Analysis](#4-simulated-incident-report-analysis)
 - [Certifications](#certifications)
 - [Education](#education)
 - [Contact](#contact)
@@ -43,6 +44,12 @@ My goal is to bring my analytical mindset and attention to detail to a cybersecu
 - **Key Features**: Filled out a Controls and Compliance Checklist which required me to review the company's security controls such as password policies, firewall, IDS, antivirus software, encryption, and physical security.
 - **Technologies/Methodologies Used**: Critical-Thinking
 - **Link**: [Controls and Compliance Checklist](Controls%20and%20compliance%20checklist.pdf)
+
+### 4. Simulated Incident Report Analysis
+- **Description**: A simulated incident report analysis detailing a DDoS attack using ICMP packet flooding that exploited a misconfigured firewall.
+- **Key Features**: Utilized the NIST CSF to complete the report.
+- **Technologies/Methodologies Used**: Critical-Thinking
+- **Link**: [Incident Report Analysis](Incident%20Report%20Analysis.pdf)
 
 ## Certifications
 
