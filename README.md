@@ -10,6 +10,7 @@ Welcome to my cybersecurity portfolio! This repository showcases my work, projec
   - [2. Intro to Web Development](#2-intro-to-web-development)
   - [3. Simulated Security Audit](#3-simulated-security-audit)
   - [4. Simulated Incident Report Analysis](#4-simulated-incident-report-analysis)
+  - [5. File Permissions in Linux](#5-file-permissions-in-linux)
 - [Certifications](#certifications)
 - [Education](#education)
 - [Contact](#contact)
@@ -50,6 +51,12 @@ My goal is to bring my analytical mindset and attention to detail to a cybersecu
 - **Key Features**: Utilized the NIST CSF to complete the report.
 - **Technologies/Methodologies Used**: Critical-Thinking
 - **Link**: [Incident Report Analysis](Incident%20Report%20Analysis.pdf)
+
+### 5. File Permissions in Linux  
+- **Description**: Using linux commands I updated the file permissions for certain files and directories to meet my organization's policies.
+- **Key Features**: Used a CLI to execute various commands to complete the tasks at hand.
+- **Technologies/Methodologies Used**: Linux CLI
+- **Link**: [File Permssions in Linux](File%20permissions%20in%20Linux.pdf)
 
 ## Certifications
 
