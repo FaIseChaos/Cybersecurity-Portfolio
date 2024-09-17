@@ -11,6 +11,7 @@ Welcome to my cybersecurity portfolio! This repository showcases my work, projec
   - [3. Simulated Security Audit](#3-simulated-security-audit)
   - [4. Simulated Incident Report Analysis](#4-simulated-incident-report-analysis)
   - [5. File Permissions in Linux](#5-file-permissions-in-linux)
+  - [6. Apply Filters to SQL Queries](#6-apply-filters-to-sql-queries)
 - [Certifications](#certifications)
 - [Education](#education)
 - [Contact](#contact)
@@ -57,6 +58,12 @@ My goal is to bring my analytical mindset and attention to detail to a cybersecu
 - **Key Features**: Used a CLI to execute various commands to complete the tasks at hand.
 - **Technologies/Methodologies Used**: Linux CLI
 - **Link**: [File Permssions in Linux](File%20permissions%20in%20Linux.pdf)
+
+### 6. Apply Filters to SQL Queries
+- **Description**: Used SQL with filters to perform security-related tasks.
+- **Key Features**: I applied filters to SQL queries to get specific information on login attempts and employee machines.
+- **Technologies/Methodologies Used**: SQL Queries, Linux CLI
+- **Link**: [Apply Filters to SQL Queries](Apply%20filters%20to%20SQL%20queries.pdf)
 
 ## Certifications
 
